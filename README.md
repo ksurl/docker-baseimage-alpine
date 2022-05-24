@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/github/v/tag/ksurl/docker-baseimage-alpine?label=image%20version&logo=docker)](https://hub.docker.com/r/ksurl/baseimage-alpine) [![](https://img.shields.io/docker/image-size/ksurl/baseimage-alpine/latest?color=lightgrey&logo=Docker)]() [![](https://img.shields.io/github/workflow/status/ksurl/docker-baseimage-alpine/build?label=build&logo=Docker)](https://github.com/ksurl/docker-baseimage-alpine/actions?query=workflow%3Abuild)
 
-* Based on alpine:3.12
+* Based on alpine
 * bash
 * s6-overlay
 
